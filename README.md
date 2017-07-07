@@ -1,7 +1,10 @@
 # tensorflow-pix2pix
-A lightweight pix2pix Tensorflow implementation.
+A lightweight [pix2pix](https://arxiv.org/abs/1611.07004) Tensorflow implementation.
 
 [@eyyub_s](https://twitter.com/eyyub_s)
+
+![](https://raw.githubusercontent.com/phillipi/pix2pix/master/imgs/examples.jpg)
+
 ## Build the example
 First you need to download the [CMP Facade](http://cmp.felk.cvut.cz/~tylecr1/facade/) dataset.
 
